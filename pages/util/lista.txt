@@ -1,0 +1,20 @@
+ O volume na unidade C ‚ Acer
+ O N£mero de S‚rie do Volume ‚ 12A3-0E55
+
+ Pasta de C:\resume\pages\util
+
+02/05/2022  19:00               242 connection.php
+02/05/2022  18:14             9.007 createpdf.php
+02/05/2022  19:02             1.412 crudeducation.php
+02/05/2022  19:02               792 crudhobbie.php
+02/05/2022  19:02             1.432 crudjob.php
+02/05/2022  19:02               913 crudlanguage.php
+02/05/2022  19:01             1.528 crudproject.php
+02/05/2022  19:01               944 crudskill.php
+02/05/2022  19:01               803 crudsummary.php
+02/05/2022  19:00             3.148 defaultbd.php
+02/05/2022  19:00             1.324 footer.php
+02/05/2022  14:32            13.461 functions.php
+02/05/2022  18:55             3.215 navigation.php
+              13 arquivo(s)         38.221 bytes
+               0 pasta(s)   301.095.682.048 bytes dispon¡veis
